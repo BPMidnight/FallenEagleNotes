@@ -1,16 +1,18 @@
-I run two different mods for The Fallen Eagle. One I don't touch, unless updates are made by the mod team. The other is one I edit to do fixes and run with other mods to check 
+I run two different versions for The Fallen Eagle. One I don't touch, unless updates are made by the mod team. The other is one I edit to do fixes and run with other mods to check 
 compatibility.
 
 3/8/22
 *Non-major or game breaking notes (doesn't necessarily matter), some of it is immersion.
 The background that replaces the tavern makes it hard to see the "X" button on the upper right corner, simply clicking the map exits.
 Certain county/barony names are not historically accurate (i.e. London should be Londinium/Londonjon/Londin). Depends on how anal people want to get.
-Druidism should be "Goidelic"< like the culture, since it was a celtic faith. Druidism just alludes to the priestly caste of the religion.
+Druidism should be "Goidelic" like the culture, since it was a celtic faith. Druidism just alludes to the priestly caste of the religion.
 
 *Gameplay
 Can't recruit Knights/Champions from the military menu. Edited the lines Wrench posted on Github on my resources_on_actions.txt and it didn't worked. Tested the Gui folder thinking
 maybe it might have been a loading issue and I couldn't see anything wrong. I know Wrench/Team is working the issues, but I'll keep testing until there is a fix.
 Characters don't sit right on Roman thrones (children hover above the seat and adults legs dangle).
+Sassanid breakdown of satraps. Sometimes it hits and sometimes it doesn't. Basically on certain run-throughs the empire gives most of its satraps independence. Edit Armpit brought 
+up something similar with the roman empires (although I haven't experienced it yet).
 
 *Good News
 This mod doesn't have conflicts with many other mods that aren't major overhauls.
